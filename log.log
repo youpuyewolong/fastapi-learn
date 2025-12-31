@@ -1,0 +1,263 @@
+获取到的代理主机域名列表：
+[1] 主域名-: rvzhi-ai.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '785a4b47-ff09-4182-b89f-44a6fd00429c'}
+[2] 主域名-: oa.rvzhi.com, 证书域名: oa.rvzhi.com, 证书ID: 124, 过期时间: 2025-03-05, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '939e6658-acdc-4caf-a272-3cb87d0a32ec'}
+[3] 主域名-: cultivate-dev.verycc.com, 证书域名: cultivate-dev.verycc.com, 证书ID: 145, 过期时间: 2026-03-23, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '45885161-f9f3-4419-b7c2-770389f52e7b'}
+[4] 主域名-: erp-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8898cda0-58d3-4337-b044-6a632304f136'}
+[5] 主域名-: alalei.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '26b64b4e-e6cb-4819-a163-15425d09d982'}
+[6] 主域名-: credentials-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'd7ddaa8c-30f3-4841-adfe-0f5590b9a8fb'}
+[7] 主域名-: xswitch-xetdz.verycc.com, 证书域名: xswitch-xetdz.verycc.com, 证书ID: 121, 过期时间: 2025-03-05, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '36547ad5-5d39-47be-969d-0169b216d23f'}
+[8] 主域名-: syt-php-prod.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ddb58f10-f950-42a5-ad97-210ef9dd43c7'}
+[9] 主域名-: facui-dev.verycc.com, 证书域名: facui-dev.verycc.com, 证书ID: 144, 过期时间: 2026-03-23, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '7a2dbb70-50c8-43b8-8d0e-30582f2c2959'}
+[10] 主域名-: dmgdata.verycc.com, 证书域名: dmgdata.verycc.com, 证书ID: 15, 过期时间: 2023-08-05, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '41659604-a07e-4906-990e-f76a828a7a29'}
+[11] 主域名-: rvzhi-phone-xetdz-out.verycc.com, 证书域名: , 证书ID: 115, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[12] 主域名-: fangli.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'f6c465b4-532e-4669-bce3-c1e2853ca6dc'}
+[13] 主域名-: ych-demo.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[14] 主域名-: huafeng-erp.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9d9d24c9-ac97-47fb-9321-49df84ee55c3'}
+[15] 主域名-: recordfile-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'f2165f11-a4d1-4bf2-a84d-86cf98284d28'}
+[16] 主域名-: road-fapiao-mobile.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'c59029bf-62f2-4ce5-a47f-2d63f93cabce'}
+[17] 主域名-: yun.bakbiotech.com, 证书域名: yun.bakbiotech.com, 证书ID: 110, 过期时间: 2024-10-20, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ca42a443-aa05-47a2-b8a6-e02ff0c6e343'}
+[18] 主域名-: edu-preview-demo.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8a849302-c21c-48ac-8a4a-ecffab520590'}
+[19] 主域名-: 12350-client-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'aa4e3dd9-d29c-4a48-a451-1ee9f9b7a6fa'}
+[20] 主域名-: mingdao-proxy.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '79bc1fbf-0c43-444b-8d83-b7c32e7e7448'}
+[21] 主域名-: editdoc.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '0b890a66-7c47-4303-8600-716209bc6172'}
+[22] 主域名-: recordfile.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '3bb3174a-4f15-4f9f-9423-a6a4506ebdea'}
+[23] 主域名-: report-poc.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'fb4a3479-50f0-428f-8c83-a471545f48b7'}
+[24] 主域名-: schedule-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '68993cca-a2cd-46ac-9129-9dcf5835f0c9'}
+[25] 主域名-: 12350-screen-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '1ea69baf-8e05-469b-9ea8-13ba037a1fb4'}
+[26] 主域名-: lego.dev.verycc.com, 证书域名: lego.dev.verycc.com, 证书ID: 75, 过期时间: 2023-11-28, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8a614bd8-49ab-4113-909c-20fc323915cb'}
+[27] 主域名-: xinda-temp.verycc.com, 证书域名: xinda-temp.verycc.com, 证书ID: 46, 过期时间: 2023-10-01, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '0279d4c0-8ed2-460f-8f7d-a4f873487458'}
+[28] 主域名-: customer-service-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '701d99c5-4da9-419e-bcde-f571b8e9056e'}
+[29] 主域名-: mqtt-publish.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'a52aacc8-d07c-4fb3-ad7e-9636724203ff'}
+[30] 主域名-: syt-php-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '85b7d962-470f-4393-a0d5-2b42fca39980'}
+[31] 主域名-: xswitchrl-dev.verycc.com, 证书域名: , 证书ID: 0, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[32] 主域名-: fastgpt.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8541c56a-e15e-4be7-bd80-f3f1c5e19812'}
+[33] 主域名-: registry.workspace.jony4.vip, 证书域名: registry.workspace.jony4.vip, 证书ID: 95, 过期时间: 2024-07-24, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'd6897ea0-14fe-40b3-a716-2014d3d11207'}
+[34] 主域名-: emergency-file.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'c3bf6806-103a-4384-9eba-2b34e4347860'}
+[35] 主域名-: cultivate.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '097ae8d7-ff58-4337-ac0b-bc6522bf75d8'}
+[36] 主域名-: hs.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '44e0cc9d-b520-494f-b5bd-d70a1517dd3c'}
+[37] 主域名-: kkfileview.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'af7df51d-2016-43c2-8e9d-d7e1354a6260'}
+[38] 主域名-: schedule.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '6cfb8e73-4ca4-4c9e-b2c8-910d15353f09'}
+[39] 主域名-: zhzwpt.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'a7f9869c-143e-4f16-95ee-fc1069c319c2'}
+[40] 主域名-: s.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '6115da2e-1726-4f19-86bc-f99cdadf3a4a'}
+[41] 主域名-: fulun-client.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '43fc2095-9a93-4807-aad9-2eff805abf66'}
+[42] 主域名-: weelink.jony4.vip, 证书域名: weelink.jony4.vip, 证书ID: 82, 过期时间: 2024-06-17, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '24ebde3b-b56d-4d74-a3c4-bd45e0e31336'}
+[43] 主域名-: nginx.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '7c836ad5-8c36-4d9c-8b3f-a7d3436e254d'}
+[44] 主域名-: xa-client-pro.12350.work, 证书域名: xa-client-pro.12350.work, 证书ID: 54, 过期时间: 2025-01-15, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '48a1673d-bb57-472b-ae44-421c0188792d'}
+[45] 主域名-: meeting-dev.verycc.com, 证书域名: meeting-dev.verycc.com, 证书ID: 49, 过期时间: 2023-09-01, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '5da27ea1-677f-4ec3-819d-08a735c9160f'}
+[46] 主域名-: xetdz-order-dev.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[47] 主域名-: xa-screen-pro.12350.work, 证书域名: xa-screen-pro.12350.work, 证书ID: 55, 过期时间: 2024-01-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9bfd6997-14ed-44a7-8582-14d1b447c183'}
+[48] 主域名-: srs-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': 'fd6c687d-0e9d-4b04-9367-211aeff9fed5'}
+[49] 主域名-: api.rvzhi-phone-weiyang.verycc.com, 证书域名: api.rvzhi-phone-weiyang.verycc.com, 证书ID: 32, 过期时间: 2023-09-20, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '2bb7428b-5c9c-469e-b400-a5373ddf5abb'}
+[50] 主域名-: syt.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'a6528949-9205-45ec-9ea2-3542fc59fee9'}
+[51] 主域名-: iot.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'b28ea5ec-f082-47d3-8929-535710a2c770'}
+[52] 主域名-: yun.dmgjc.com, 证书域名: yun.dmgjc.com, 证书ID: 108, 过期时间: 2024-09-22, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8ecc139a-002b-49f3-b4d9-ad9632c71377'}
+[53] 主域名-: xetdz-zhjg.dev.verycc.com, 证书域名: xetdz-zhjg.dev.verycc.com, 证书ID: 16, 过期时间: 2023-08-07, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '7815cd4e-41f7-4761-a18a-f348d773628c'}
+[54] 主域名-: duty-info.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ad76a99d-381a-4390-9ce0-b5403f3d0440'}
+[55] 主域名-: yunbangong-php.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ea3c31b2-d325-469d-bd50-70b6bde40c85'}
+[56] 主域名-: ych-12350-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'f0492eb2-03c0-4b9c-9c16-011429df9cf3'}
+[57] 主域名-: xetdz-xswitch-public.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[58] 主域名-: xf-translate-server.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8fb7966a-b914-4263-9fde-f4d0a830f923'}
+[59] 主域名-: danger-dev.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[60] 主域名-: project.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '3d46fb75-de06-471a-a351-60ce03711fc3'}
+[61] 主域名-: api-kpg.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ca45021f-5172-470d-982b-5bc13b06b559'}
+[62] 主域名-: 1panel.workspace.jony4.vip, 证书域名: , 证书ID: 94, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[63] 主域名-: lianhu-oa-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ac69b1fc-2282-4bd8-9a4b-d6aa9ecd789c'}
+[64] 主域名-: report-poc-2.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '4880ea36-5d56-4721-bf21-9d29ee70af59'}
+[65] 主域名-: emergency.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '0f955c84-92a2-46f9-a41b-5400ffd958bf'}
+[66] 主域名-: testssl.verycc.com, 证书域名: testssl.verycc.com, 证书ID: 143, 过期时间: 2026-03-23, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'b34db7ef-900f-405d-9e52-5974ecf9646d'}
+[67] 主域名-: draw.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '4e31599e-355b-42f1-a2f4-f13dfa686a1a'}
+[68] 主域名-: mdstatus-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '95d1cbad-134a-48b7-8a94-8c21ea82f08f'}
+[69] 主域名-: xswitch-xf-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '02c07837-17ca-49d9-a968-281fbbd65e01'}
+[70] 主域名-: api.dmg.dev.verycc.com, 证书域名: , 证书ID: 11, 过期时间: , 状态: 0
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[71] 主域名-: weiyang-xswitch.verycc.cc, 证书域名: *.verycc.cc, 证书ID: 123, 过期时间: 2026-01-02, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '6be15a0f-ac3a-4be4-86fd-5e14fd7c6cf7'}
+[72] 主域名-: xswitch-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '48a15e45-f620-4cd6-a5f6-8a1dbb8a9176'}
+[73] 主域名-: mingdao.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'e09f0b0a-6b77-43f7-8595-89122093039a'}
+[74] 主域名-: ninghao.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '7011374e-2ec4-4936-99a0-28c02c1bfa70'}
+[75] 主域名-: 3d-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9b08ae76-919f-431f-9959-cf8fabc589e4'}
+[76] 主域名-: yun-php.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'e9bff127-aa32-41c2-ac08-2af8028cb8ee'}
+[77] 主域名-: wuzi.turbotech.pro, 证书域名: , 证书ID: 0, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[78] 主域名-: rvzhi-form-dev.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[79] 主域名-: v.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'b80b59dd-ff1f-4970-9c92-1bd68f38dcb8'}
+[80] 主域名-: flv.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '1f87cdb4-dd00-4c28-8fc2-56cf65ad6e78'}
+[81] 主域名-: kpg-ticket.12350.work, 证书域名: kpg-ticket.12350.work, 证书ID: 112, 过期时间: 2024-11-27, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '0a045616-c8fe-4011-a1c6-cf9a92799106'}
+[82] 主域名-: www.dmgjc.com, 证书域名: www.dmgjc.com, 证书ID: 22, 过期时间: 2023-08-27, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '25dad893-b9ab-4f64-8f28-1e4c4118f0b9'}
+[83] 主域名-: rvzhi-switch.dev.verycc.com, 证书域名: rvzhi-switch.dev.verycc.com, 证书ID: 30, 过期时间: 2023-09-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '79cdabf7-3b99-4809-978d-6337a9b047ce'}
+[84] 主域名-: dev.vasaii.art, 证书域名: , 证书ID: 0, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[85] 主域名-: xa-pro.12350.work, 证书域名: xa-pro.12350.work, 证书ID: 53, 过期时间: 2024-01-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '4cc2f6aa-cbd2-4a7f-b891-0bdef3bf7652'}
+[86] 主域名-: mqtt-ws.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'f7be258e-fa52-4ac7-87b7-ff50708bd7e7'}
+[87] 主域名-: api.rvzhi-phone.verycc.com, 证书域名: api.rvzhi-phone.verycc.com, 证书ID: 26, 过期时间: 2023-08-17, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '8e48ac0f-1963-47c8-82b4-44fa4874b72d'}
+[88] 主域名-: academy.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '07ba2ef1-93a9-4aae-b8ea-51cea4fc8324'}
+[89] 主域名-: form.12350.work, 证书域名: form.12350.work, 证书ID: 43, 过期时间: 2023-09-11, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'd13c7742-ebe4-4f1b-9c82-a823df73ad1b'}
+[90] 主域名-: hik-yjj.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'c0ba6e9b-37e8-4c18-940d-6e2ad274f41b'}
+[91] 主域名-: xa.12350.work, 证书域名: xa.12350.work, 证书ID: 125, 过期时间: 2025-09-23, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '57580923-c049-4012-a802-bb2644b6bffc'}
+[92] 主域名-: xetdz-cc-proxy.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[93] 主域名-: xinda.verycc.com, 证书域名: xinda.verycc.com, 证书ID: 39, 过期时间: 2023-09-16, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'b5530080-eafa-4f7a-822f-83aec233c571'}
+[94] 主域名-: dify-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'dc69047b-af41-4fb0-ad75-6ae18461b3be'}
+[95] 主域名-: jjxx.12350.work, 证书域名: jjxx.12350.work, 证书ID: 47, 过期时间: 2023-08-11, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'd6d424ab-d384-46e0-a911-66f4b073b930'}
+[96] 主域名-: huitong-ai-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '079413ef-8718-479a-9aa0-d7d3b997e7af'}
+[97] 主域名-: fulun-client-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '5fc4569d-165c-4f44-a228-41bb0d6be656'}
+[98] 主域名-: record-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '57b5ace9-f2ce-4822-b186-95a282f894e5'}
+[99] 主域名-: mingdao-php.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '7aad5203-ece8-4751-a8d7-60b4679b78fe'}
+[100] 主域名-: pdf-gennerator.verycc.com, 证书域名: pdf-gennerator.verycc.com, 证书ID: 18, 过期时间: 2023-08-12, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9b72161e-c6c6-40e0-a9fb-573045319131'}
+[101] 主域名-: xa12350-screen.verycc.com, 证书域名: , 证书ID: 34, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[102] 主域名-: meeting.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'e286e0c9-2ac9-4bee-93ee-468d59ff01d2'}
+[103] 主域名-: demo.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '5201432c-1dfc-466d-8754-aa9df7d73a11'}
+[104] 主域名-: xuhuang-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9856810c-d83f-4edb-bf44-726c241dd6b6'}
+[105] 主域名-: office2pdf-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'e0d9c6f6-bf87-455f-930b-4317e6952d15'}
+[106] 主域名-: workspace.jony4.vip, 证书域名: workspace.jony4.vip, 证书ID: 93, 过期时间: 2024-07-21, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '879d745a-51ed-4797-9de1-b4af09998fcb'}
+[107] 主域名-: yun.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9d96abe3-be52-4b4b-932f-d1996458484f'}
+[108] 主域名-: kpg-ticket-test.verycc.com, 证书域名: kpg-ticket-test.verycc.com, 证书ID: 150, 过期时间: 2026-03-24, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'd5c94dfd-4d11-4674-b380-33129cec8f7f'}
+[109] 主域名-: portainer.verycc.com, 证书域名: portainer.verycc.com, 证书ID: 4, 过期时间: 2023-08-19, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '026e38f6-271a-4688-ae7e-9070fcade40c'}
+[110] 主域名-: bak-excel.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '69e806ca-7123-47b5-ba0e-d05e7223ee6c'}
+[111] 主域名-: mange.fishs.com, 证书域名: mange.fishs.com, 证书ID: 111, 过期时间: 2024-10-20, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'c1f2428b-cf54-4bf1-8cc2-62eacb70c7ae'}
+[112] 主域名-: api-kpg-test.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '844718d3-65f1-4ed7-b1ee-177026919ce7'}
+[113] 主域名-: magician.verycc.com, 证书域名: magician.verycc.com, 证书ID: 147, 过期时间: 2026-03-23, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '737c502c-8ff5-4d4b-a541-a9ea3a0f4ad5'}
+[114] 主域名-: api.rvzhi-phone-xetdz.verycc.com, 证书域名: api.rvzhi-phone-xetdz.verycc.com, 证书ID: 28, 过期时间: 2023-08-24, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'ac46aa0d-0ff4-4927-a038-d4ff29db9dd6'}
+[115] 主域名-: fapiao-api.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'c32eaa08-6f76-456c-a487-3108e9755940'}
+[116] 主域名-: xetdz.cc, 证书域名: xetdz.cc, 证书ID: 33, 过期时间: 2023-08-03, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': 'c07d2a2c-d37e-4bc7-be37-0412f0af569d'}
+[117] 主域名-: yuncheng-demo.dev.verycc.com, 证书域名: , 证书ID: 0, 过期时间: , 状态: 1
+{'status': 2, 'msg': '[过期时间, 证书域名] 参数缺少必填项'}
+[118] 主域名-: oneapi.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '1e0a9e63-b241-4f8f-91df-6aae0465e2c2'}
+[119] 主域名-: xiyiren.com, 证书域名: xiyiren.com, 证书ID: 97, 过期时间: 2024-09-17, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '7aa30050-94ba-4728-86cd-dedcd8214303'}
+[120] 主域名-: xswitch.verycc.com, 证书域名: xswitch.verycc.com, 证书ID: 14, 过期时间: 2023-09-23, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': 'ad5fce19-36eb-46ae-80f2-3e6f2791439b'}
+[121] 主域名-: xetdz-kaoqin.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '60d73413-b3a9-46b0-8a53-1105a5378672'}
+[122] 主域名-: mingdao-plugin.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '6c6fa9f5-cce5-43ce-8e62-0bcda72ca38c'}
+[123] 主域名-: edu-demo.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'c6c965cc-4d33-4329-8cdc-383c5836b4af'}
+[124] 主域名-: oa-rvzhi-dev.verycc.com, 证书域名: *.verycc.com, 证书ID: 77, 过期时间: 2024-12-08, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '60ef6487-eafb-4287-b1b8-95315ca97973'}
+[125] 主域名-: auth.xa.12350.work, 证书域名: auth.xa.12350.work, 证书ID: 127, 过期时间: 2026-01-25, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '818bae12-d383-4a64-ada9-23f97b9ddfb8'}
+[126] 主域名-: zw-bank.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': 'b8d73920-cb71-45e3-b210-eb28480f6b97'}
+[127] 主域名-: syt-admin.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '6472de53-1d82-4d78-8b35-c46293280093'}
+[128] 主域名-: dmg-dev.verycc.com, 证书域名: dmg-dev.verycc.com, 证书ID: 50, 过期时间: 2023-09-11, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '08e4e4d5-48cb-4f38-a8c4-e91b4057270b'}
+[129] 主域名-: dmgdata-new.verycc.com, 证书域名: *.verycc.com, 证书ID: 118, 过期时间: 2026-01-02, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '6585616c-3bfe-4d99-90e3-0a42f4332dc1'}
+[130] 主域名-: dmg.dev.verycc.com,yuncheng.dev.verycc.com, 证书域名: dmg.dev.verycc.com,yuncheng.dev.verycc.com, 证书ID: 5, 过期时间: 2023-08-19, 状态: 1
+{'msg': '新增成功', 'code': '1', 'data': '9486b0d0-3607-4a8d-b680-f9f27db3abec'}
+[131] 主域名-: dmgoa.verycc.cc,dmgoa.verycc.com,oa.dmgjc.com, 证书域名: *.verycc.cc, 证书ID: 123, 过期时间: 2026-01-02, 状态: 0
+{'msg': '新增成功', 'code': '1', 'data': '77f4bd7c-607a-4c6f-80f1-743553e39c8b'}
